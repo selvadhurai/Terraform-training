@@ -1,5 +1,5 @@
-#create VPC on aws
-#Terraform Creating this 
+# create VPC on aws
+# Terraform Creating this 
 resource "aws_vpc" "vpc"
 {
   cider_block                         = "172.31.0.0/16'
